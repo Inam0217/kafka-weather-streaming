@@ -76,11 +76,8 @@ graph TD
 
 ---
 
-## 🗄️ Sample Table Output
-| id | timestamp           | city   | temp_c | weather   |
-|----|--------------------|--------|--------|-----------|
-| 1  | 2025-08-30 14:00:00 | Riyadh | 38.5   | Clear Sky |
-| 2  | 2025-08-30 15:00:00 | Riyadh | 39.0   | Clouds    |
+## 📂 Assets
+![ETL Pipeline](assets/etl_flow.png)
 
 ---
 
