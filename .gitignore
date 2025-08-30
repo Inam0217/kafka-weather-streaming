@@ -1,0 +1,28 @@
+# Python
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+*.ipynb_checkpoints/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Logs & misc
+*.log
+*.sqlite3
+
+# Secrets
+.env
+.env.*
