@@ -1,5 +1,13 @@
 # 🌦️ Kafka Weather Streaming ETL
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-black?logo=apache-kafka)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Airflow](https://img.shields.io/badge/ETL-Pipeline-green?logo=apache-airflow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 A real-time streaming data pipeline using **Apache Kafka**, **Python**, and **MySQL** to ingest, process, and store live weather data.
 
 ---
