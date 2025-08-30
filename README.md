@@ -12,6 +12,16 @@ A real-time streaming data pipeline using **Apache Kafka**, **Python**, and **My
 
 ---
 
+## ✨ Project Highlights
+
+- ⚡ **Real-time streaming ETL**: Weather data produced via Kafka and consumed in real-time by Python consumers.  
+- 🗄️ **Database integration**: All weather events are stored in a structured **MySQL** table for persistence and querying.  
+- 🐳 **Fully containerized**: Kafka broker and MySQL services run seamlessly using **Docker Compose**.  
+- 📊 **End-to-end demo**: Includes producer logs, consumer output, and MySQL query results to prove pipeline functionality.  
+- 🔮 **Future-ready**: Easily extendable to Spark Structured Streaming, Confluent Cloud, and dashboarding with Grafana.  
+
+---
+
 ## 📌 Project Overview
 This project demonstrates:
 - Producing weather data events with a Kafka **Producer**.
