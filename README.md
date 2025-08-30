@@ -77,7 +77,15 @@ graph TD
 ---
 
 ## 📂 Assets
+
+### ETL Pipeline
 ![ETL Pipeline](assets/etl_flow.png)
+
+### Kafka Producer & Consumer Logs
+![Producer Consumer Logs](assets/consumer_producer_output.png)
+
+### MySQL Table Output
+![MySQL Table](assets/mysql_table_output.png)
 
 ---
 
