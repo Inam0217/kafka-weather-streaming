@@ -110,10 +110,13 @@ graph TD
 
 ---
 
-## 🔮 Future Work
-- Add **Spark Structured Streaming** for transformations.
-- Deploy to **Confluent Cloud / AWS MSK**.
-- Build a **Grafana Dashboard** for live monitoring.
+## 🔮 Future Improvements
+
+- [ ] Add **Spark Structured Streaming** for advanced transformations  
+- [ ] Deploy pipeline to **Confluent Cloud / AWS MSK**  
+- [ ] Build a **Grafana / Power BI Dashboard** for real-time visualization  
+- [ ] Add **unit tests** for producer and consumer  
+- [ ] Create a **CI/CD pipeline** with GitHub Actions for automated runs  
 
 ---
 
