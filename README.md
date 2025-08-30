@@ -79,13 +79,16 @@ graph TD
 ## 📂 Assets
 
 ### ETL Pipeline
-![ETL Pipeline](assets/etl_flow.png)
+![ETL Pipeline](assets/etl_flow.png)  
+*Diagram of the streaming ETL pipeline from producer → Kafka → consumer → MySQL.*
 
 ### Kafka Producer & Consumer Logs
-![Producer Consumer Logs](assets/consumer_producer_output.png)
+![Producer Consumer Logs](assets/consumer_producer_output.png)  
+*Producer sends weather events, Consumer receives and inserts them into MySQL.*
 
 ### MySQL Table Output
-![MySQL Table](assets/mysql_table_output.png)
+![MySQL Table](assets/mysql_table_output.png)  
+*Sample query result showing ingested weather data stored in MySQL.*
 
 ---
 
